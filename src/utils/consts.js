@@ -1,0 +1,7 @@
+export const LC_ROUTE = '/lc'
+export const LOGIN_ROUTE = '/login'
+export const REGISTRATION_ROUTE = '/registration'
+export const MAIN_ROUTE = '/'
+export const NEWS_ROUTE = '/news'
+export const REVIEWS_ROUTE = '/rew'
+export const CONTACTS_ROUTE = '/contacts'
